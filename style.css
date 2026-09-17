@@ -1,0 +1,64 @@
+body{
+    background-color:rgb(226, 226, 218);
+}
+.flex-container{
+    display: flex;
+  flex-direction: row;
+  background-color: white;
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-top: 70px;
+  margin-bottom: 50px;
+  width: 40%;
+  height: 37%;
+  border-radius: 15px;
+    
+}
+.product{
+    width: 270px;
+    border-radius: 10px;
+    height: 410px;
+}
+.perf{
+    color: gray;
+    margin-left: 20px;
+    font-size: 12px;
+}
+.heyy{
+    margin-left: 20px;
+}
+.floral{
+    margin-left: 20px;
+    color: gray;
+}
+.food{
+    color: rgb(3, 71, 3);
+    font-weight: bolder;
+    font-size: xx-large;
+    margin-left: 20px;
+}
+span{
+    color: gray;
+    font-size: 12px;
+    /* margin-left: 20px; */
+    gap: 20px;
+}
+.him{
+    color: white;
+}
+.but{
+    background-color: rgb(3, 71, 3);
+    color: white;
+    padding-left: 35px;
+    /* padding-right: 25px; */
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+
+}
+.hello{
+    margin-left: 20px;
+}
+.location{
+    margin-left: 20px;
+}
